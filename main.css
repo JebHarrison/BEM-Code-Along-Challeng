@@ -53,6 +53,12 @@ a:visited {
   vertical-align: top;
 }
 
+.form {
+  background-color: #fafafa;
+  padding: 20px;
+  border-radius: 10px;
+}
+
 .header {
   height: 70vh;
   display: flex;
