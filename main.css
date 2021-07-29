@@ -37,6 +37,11 @@ a:visited {
   border: none;
   background-color: #55a5f0;
 }
+.button--logout {
+  background-color: #fafafa;
+  border-color: #55a5f0;
+  color: #28527a;
+}
 
 .intro {
   text-align: center;
