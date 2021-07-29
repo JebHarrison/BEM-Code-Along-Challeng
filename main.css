@@ -86,7 +86,7 @@ a:visited {
 
 .footer {
   height: 10vh;
-  background-color: green;
+  background-color: #28527a;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
