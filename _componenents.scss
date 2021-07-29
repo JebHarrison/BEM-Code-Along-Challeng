@@ -29,12 +29,10 @@
     }
     
     &--logout{
-        display: flex;
         background-color: $color-white;
-        border-color: $color-primary;
         color: $color-primary;
         align-items: center;
-        border: $color-primary;
+        border: 2px solid $color-primary;
     }
 
 }
