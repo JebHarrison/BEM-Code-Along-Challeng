@@ -7,3 +7,10 @@ a:link,
 a:visited {
   text-decoration: none;
 }
+
+.header {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
