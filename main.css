@@ -69,6 +69,20 @@ a:visited {
   margin-bottom: 20px;
 }
 
+.p {
+  color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  background-color: hotpink;
+}
+
+.div {
+  color: #fafafa;
+  display: flex;
+  justify-content: center;
+}
+
 .header {
   height: 70vh;
   display: flex;
@@ -85,9 +99,10 @@ a:visited {
 }
 
 .footer {
-  height: 100px;
-  background-color: #28527a;
+  height: 10vh;
+  background-color: green;
   display: flex;
-  flex-direction: row;
+  justify-content: row;
   color: #fafafa;
+  margin-top: 50vh;
 }
