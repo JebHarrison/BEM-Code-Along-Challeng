@@ -83,3 +83,11 @@ a:visited {
   justify-content: center;
   align-items: center;
 }
+
+.footer {
+  height: 100px;
+  background-color: #28527a;
+  display: flex;
+  flex-direction: row;
+  color: #fafafa;
+}
