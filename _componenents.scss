@@ -84,10 +84,12 @@
     display: flex;
     justify-content: space-between;
     padding: 20px 40px;
-    &__text {
-        color: $color-white;
-        vertical-align: bottom;
+    &__heading {
+        font-family: $font-display;
+        font-size: 30px;
+        margin-bottom: 20px;
     }
+    
 }
 
 
