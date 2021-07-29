@@ -27,6 +27,13 @@
         border: none;
         background-color: $color-primary-light;
     }
+    
+    &--logout{
+        background-color: $color-white;
+        border-color: $color-primary-light;
+        color: $color-primary;
+    }
+
 }
 
 
