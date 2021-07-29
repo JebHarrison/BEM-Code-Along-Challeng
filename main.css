@@ -60,6 +60,9 @@ a:visited {
   display: flex;
   flex-direction: column;
 }
+.form__input {
+  margin-bottom: 20px;
+}
 
 .header {
   height: 70vh;
