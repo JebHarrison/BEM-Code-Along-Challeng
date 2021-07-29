@@ -49,6 +49,10 @@ a:visited {
   margin: 0 auto;
 }
 
+.wave {
+  vertical-align: top;
+}
+
 .header {
   height: 70vh;
   display: flex;
