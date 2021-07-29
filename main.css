@@ -81,6 +81,7 @@ a:visited {
   color: #fafafa;
   display: flex;
   justify-content: center;
+  background-color: indianred;
 }
 
 .header {
