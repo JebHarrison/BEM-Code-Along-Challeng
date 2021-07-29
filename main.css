@@ -86,6 +86,9 @@ a:visited {
   justify-content: space-between;
   padding: 20px 40px;
 }
+.outro-container__heading {
+  font-family: "Dancing script", cursive;
+}
 
 .header {
   height: 70vh;
