@@ -79,6 +79,17 @@ a:visited {
   margin-bottom: 20px;
 }
 
+.outro {
+  background-color: #28527a;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+.outro__text {
+  color: #fafafa;
+  vertical-align: bottom;
+}
+
 .outro-container {
   display: flex;
   flex-direction: column;
