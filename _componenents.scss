@@ -29,6 +29,7 @@
     }
     
     &--logout{
+        display: flex;
         background-color: $color-white;
         border-color: $color-primary;
         color: $color-primary;
