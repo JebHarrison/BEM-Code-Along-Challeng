@@ -85,9 +85,10 @@ a:visited {
   justify-content: space-between;
   padding: 20px 40px;
 }
-.outro__text {
-  color: #fafafa;
-  vertical-align: bottom;
+.outro__heading {
+  font-family: "Dancing script", cursive;
+  font-size: 30px;
+  margin-bottom: 20px;
 }
 
 .outro-container {
