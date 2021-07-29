@@ -32,6 +32,10 @@ a:visited {
   border-radius: 10px;
   color: #fafafa;
 }
+.button--form {
+  width: 100%;
+  border: none;
+}
 
 .intro {
   text-align: center;
