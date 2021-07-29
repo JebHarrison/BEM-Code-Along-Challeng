@@ -80,11 +80,13 @@
 }
 
 .outro {
-    background-color: $color-primary;
+    background-color: white;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    align-items: center;
     padding: 20px 40px;
+    margin-top: 25vh;
     &__heading {
         font-family: $font-display;
         font-size: 30px;
@@ -104,7 +106,6 @@
 
     &__heading{
     font-family: $font-display;
-    color: red;
 }
 
 }
