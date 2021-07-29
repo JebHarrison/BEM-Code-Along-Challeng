@@ -69,21 +69,6 @@ a:visited {
   margin-bottom: 20px;
 }
 
-.p {
-  color: #fafafa;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  background-color: hotpink;
-}
-
-.div {
-  color: #fafafa;
-  display: flex;
-  justify-content: center;
-  background-color: indianred;
-}
-
 .header {
   height: 70vh;
   display: flex;
@@ -103,7 +88,8 @@ a:visited {
   height: 10vh;
   background-color: green;
   display: flex;
-  justify-content: row;
+  flex-direction: row;
+  justify-content: space-between;
   color: #fafafa;
   margin-top: 50vh;
 }
